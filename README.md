@@ -17,7 +17,7 @@ live deployment link = https://velvety-pegasus-c3a9ef.netlify.app/
 
 --HTML. 
 
---CSS
+--CSS. 
 
 --JavaScript
 
