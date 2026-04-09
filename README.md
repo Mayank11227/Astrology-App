@@ -13,7 +13,7 @@ live deployment link = https://velvety-pegasus-c3a9ef.netlify.app/
 ✨ Clean and user-friendly interface
 ⚡ Fast and lightweight project
 
-🛠️ Tech Stack
+🛠️ Tech Stackm. 
 
 --HTML. 
 
